@@ -1,6 +1,6 @@
 const schedule = require('node-schedule');
 
-class TaskScheduler{
+class TaskSchedulerUltra{
   constructor() {
     this.jobs = [];
   }

@@ -1,5 +1,5 @@
 {
-  "name": "TaskScheduler",
+  "name": "task-scheduler-ultra",
   "version": "1.0.0",
   "description": "A simple Node.js package for task scheduling using the node-schedule library.",
   "main": "./src/index.js",

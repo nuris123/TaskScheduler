@@ -1,0 +1,22 @@
+{
+  "name": "TaskScheduler",
+  "version": "1.0.0",
+  "description": "A simple Node.js package for task scheduling using the node-schedule library.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nuris123/TaskScheduler.git"
+  },
+  "keywords": [
+    "task",
+    "scheduler",
+    "node",
+    "javascript"
+  ],
+  "author": "nuris123",
+  "license": "MIT"
+}
+
